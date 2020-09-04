@@ -2,7 +2,7 @@
 
 In this notebook I have used all the classification algorithms that I have learned in Machine Learning with Python course authorized by IBM.
 
-##In this project, we have used 4 different classification techniques namely:
+In this project, we have used 4 different classification techniques namely:
 1 K-Nearest Neighbours.
 2 Decision Tree.
 3 SVM classification.
